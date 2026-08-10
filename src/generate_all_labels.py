@@ -84,10 +84,10 @@ for asset in assets:
 
 
     c.drawString(
-        10*mm,
-        25*mm,
-        inventory_number
-    )
+    10*mm,
+    27*mm,
+    name
+)
 
 
     c.drawString(
